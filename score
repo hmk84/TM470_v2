@@ -1,0 +1,23 @@
+{
+  "score": [
+    {
+      "id": 1,
+      "HomeTeam": "St. Pats",
+      "AwayTeam": "Rathnew",
+      "HomeGoals": 0,
+      "HomePoints": 0,
+      "AwayGoals": 0,
+      "AwayPoints": 0
+    },
+    {
+      "id": 2,
+      "HomeTeam": "jihj",
+      "AwayTeam": "jihj",
+      "HomeGoals": "6",
+      "HomePoints": "2",
+      "AwayGoals": "1",
+      "AwayPoints": "1",
+      "AwayGoal": "0"
+    }
+  ]
+}
